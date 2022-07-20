@@ -30,3 +30,10 @@ D:\demo\authentication\jwt\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebToken
 D:\demo\authentication\jwt\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
 D:\demo\authentication\jwt\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 D:\demo\authentication\jwt\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\demo\authentication\jwt\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\demo\authentication\jwt\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\demo\authentication\jwt\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\demo\authentication\jwt\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\demo\authentication\jwt\bin\Debug\net6.0\Scrutor.dll
+D:\demo\authentication\jwt\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\demo\authentication\jwt\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
